@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DrawMachine.Properties
+namespace NaverCafeCommentDrawingMachine.Properties
 {
 
 

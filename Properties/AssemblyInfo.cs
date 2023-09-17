@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DrawMachine")]
+[assembly: AssemblyTitle("NaverCafeCommentDrawingMachine")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DrawMachine")]
+[assembly: AssemblyProduct("NaverCafeCommentDrawingMachine")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("03e68e1f-7381-4b31-8b65-f45c11fe74cc")]
+[assembly: Guid("335da335-b69c-4d0f-902e-7bb94d8a5df4")]
 
 // Version information for an assembly consists of the following four values:
 //

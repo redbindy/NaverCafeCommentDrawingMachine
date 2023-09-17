@@ -1,18 +1,27 @@
-﻿using System.Diagnostics;
+﻿using System.Collections.Generic;
+using System.Diagnostics;
 
-namespace DrawMachine
+namespace NaverCafeCommentDrawingMachine
 {
-    public struct User
+    public class User
     {
-        public string Name { get; }
-        public string Comment { get; }
+        public string Name { get; private set; }
+        public string Comment { get; private set; }
+        public string PrizeOrNull { get; private set; }
 
-        public User(string name, string comment)
+        public User (string name, string comment, string prize)
         {
             Debug.Assert(name != null && comment != null);
 
             Name = name;
             Comment = comment;
+            PrizeOrNull = prize;
+        }
+
+        public User(string name, string comment)
+            : this (name, comment, null)
+        {
+
         }
 
         public override int GetHashCode()
@@ -22,12 +31,19 @@ namespace DrawMachine
 
         public override bool Equals(object obj)
         {
-            if (obj == null || !(obj is User))
+            if (obj == null)
             {
                 return false;
             }
 
-            return Name == ((User) obj).Name;
+            User other = obj as User;
+
+            if (other == null)
+            {
+                return false;
+            }
+
+            return Name == other.Name;
         }
     }
 }

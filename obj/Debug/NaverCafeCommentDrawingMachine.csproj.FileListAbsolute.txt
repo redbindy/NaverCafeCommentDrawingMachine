@@ -1,0 +1,10 @@
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\bin\Debug\NaverCafeCommentDrawingMachine.exe.config
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\bin\Debug\NaverCafeCommentDrawingMachine.exe
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\bin\Debug\NaverCafeCommentDrawingMachine.pdb
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\obj\Debug\NaverCafeCommentDrawingMachine.csproj.AssemblyReference.cache
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\obj\Debug\NaverCafeCommentDrawingMachine.Properties.Resources.resources
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\obj\Debug\NaverCafeCommentDrawingMachine.csproj.GenerateResource.cache
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\obj\Debug\NaverCafeCommentDrawingMachine.csproj.CoreCompileInputs.cache
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\obj\Debug\NaverCafeCommentDrawingMachine.exe
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\obj\Debug\NaverCafeCommentDrawingMachine.pdb
+C:\Users\redbindy\Desktop\practice\C#\NaverCafeCommentDrawingMachine\obj\Debug\NaverCafeCommentDrawingMachine.Form1.resources

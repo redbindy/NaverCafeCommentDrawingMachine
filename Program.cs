@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DrawMachine
+namespace NaverCafeCommentDrawingMachine
 {
     internal static class Program
     {
@@ -16,17 +16,7 @@ namespace DrawMachine
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            Form1 form1 = new Form1();
-
-            try
-            {
-                Application.Run(form1);
-            }
-            finally
-            {
-                form1.Dispose();
-            }
+            Application.Run(new Form1());
         }
     }
 }
